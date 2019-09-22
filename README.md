@@ -19,5 +19,5 @@ References
 - Salmaso, N. (2003). Life strategies, dominance patterns and mechanisms promoting species coexistence in phytoplankton communities along complex environmental gradients. Hydrobiologia, 13–36. doi:10.1023/B:HYDR.0000004267.64870.85.  
 
 Implementation  
-Salmaso, N. (2019) Effects of Habitat Partitioning on the Distribution of Bacterioplankton in Deep Lakes. Front. Microbiol. 10:2257. doi: 10.3389/fmicb.2019.02257
+- Salmaso, N. (2019) Effects of Habitat Partitioning on the Distribution of Bacterioplankton in Deep Lakes. Front. Microbiol. 10:2257. doi: 10.3389/fmicb.2019.02257
 #
