@@ -6,10 +6,11 @@ Function waps (weighted averages using phyloseq-class objects)
 For every i species, or higher level taxonomy, the observed optimum environmental levels of selected variables are estimated by computing the averages – weighted by the corresponding abundances values – of the variable values in the corresponding samples where the i species were identified. Species optima (uk), and species tolerances (tk), were computed using standard approaches (ter Braak and van Dame, 1989, and Salmaso, 2003).
 
 example: reswaps <- waps(inputps = psobject, varweight = "Oxygen", taxopt = "Genus", ranktax = FALSE)  
-inputps, a phyloseq object  
-varweight, the name of the variable to analyze (e.g. "Oxygen")  
-taxopt, the taxonomic level to be analyzed  
-ranktax, if TRUE the table includes full taxonomic information  
+
+- inputps, a phyloseq object  
+- varweight, the name of the variable to analyze (e.g. "Oxygen")  
+- taxopt, the taxonomic level to be analyzed  
+- ranktax, if TRUE the table includes full taxonomic information  
 
 Author, Nico Salmaso, 11 July 2019  
 
