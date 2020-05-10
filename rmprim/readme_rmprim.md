@@ -6,8 +6,8 @@ The script works on gzipped files from Illumina MiSeq, with names ending in _R1_
 B0115D1-PL1-C5_S35_L001_R1_001.fastq.gz \
 B0115D1-PL1-C5_S35_L001_R2_001.fastq.gz \
  \
-Usage: \
-
+Usage: bash rmprim.sh [parameters] \
+parameters: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory
 
 
 
