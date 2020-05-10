@@ -10,7 +10,4 @@ Usage: bash rmprim.sh [parameters] \
 parameters: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory \
 #
 Example: \
-  bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -t TRUE -d /media/nico/NICO_Data/NICO/NICO_Res/GARDA_NGS1_DADA2/FASTQ_cutadapt
-
-
-
+bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -t TRUE -d /FASTQ
