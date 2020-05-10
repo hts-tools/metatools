@@ -7,7 +7,10 @@ B0115D1-PL1-C5_S35_L001_R1_001.fastq.gz \
 B0115D1-PL1-C5_S35_L001_R2_001.fastq.gz \
  \
 Usage: bash rmprim.sh [parameters] \
-parameters: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory
+parameters: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory \
+#
+Example: \
+  bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -t TRUE -d /media/nico/NICO_Data/NICO/NICO_Res/GARDA_NGS1_DADA2/FASTQ_cutadapt
 
 
 
