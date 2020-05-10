@@ -1,4 +1,6 @@
-metatools Tools for analysis of high throughput sequencing data
+metatools
+
+Tools for analysis of high throughput sequencing data
 
 R function waps
 
