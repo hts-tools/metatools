@@ -14,5 +14,5 @@ parameters: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRU
 Example: \
 bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -t TRUE -d /FASTQ
 #
-If the fastq file are not zipped, move to the FASTQ dir, and use:
+If the fastq file are not zipped, move to the FASTQ dir, and use: \
 for file in *; do gzip -k "$file"; done
