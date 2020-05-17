@@ -1,5 +1,3 @@
-UNDER DEVELOPMENT
-
 rmprim \
  \
 The bash script "rmprim.sh" is a wrapper for cutadapt (https://cutadapt.readthedocs.io/) allowing to trim primers in forward and reverse paired reads in FASTQ files ("Trimming paired-end reads"). \
