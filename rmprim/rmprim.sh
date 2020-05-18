@@ -1,6 +1,7 @@
 #!/bin/bash
 # rmprim.sh
 # Function rmprim 0.1 / Bash script
+# https://github.com/hts-tools/metatools/tree/master/rmprim
 # Author: Nico Salmaso, FEM, nico.salmaso@fmach.it
 # usage: bash rmprim.sh [arguments]
 # arguments: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory
