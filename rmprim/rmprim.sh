@@ -45,3 +45,4 @@ head trimming_statistic.txt
 echo ""
 echo "Open trimming_statistic.txt for complete results"
 echo ""
+
