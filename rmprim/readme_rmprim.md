@@ -22,3 +22,7 @@ bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -n TRUE -t TRUE -d 
 NOTE \
 If the fastq file are not zipped, move to the FASTQ dir, and use: \
 for file in *; do gzip -k "$file"; done
+#
+\
+VERSIONS \
+0.11 - Added -n option (anchored primers /TRUE/FALSE)
