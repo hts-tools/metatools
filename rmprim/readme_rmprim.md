@@ -14,10 +14,10 @@ B0115D1-PL1-C5_S35_L001_R1_001.fastq.gz \
 B0115D1-PL1-C5_S35_L001_R2_001.fastq.gz \
  \
 Usage: bash rmprim.sh [arguments] \
-arguments: - f forward sequence; -r reverse sequence; -t discard untrimmed (TRUE/FALSE); -d directory
+arguments: - f forward sequence; -r reverse sequence; -n anchored (TRUE/FALSE); -t discard untrimmed (TRUE/FALSE); -d directory
 #
 Example: \
-bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -t TRUE -d /FASTQ
+bash rmprim.sh -f CCTACGGGNGGCWGCAG -r GACTACNVGGGTWTCTAATCC -n TRUE -t TRUE -d /FASTQ
 #
 NOTE \
 If the fastq file are not zipped, move to the FASTQ dir, and use: \
